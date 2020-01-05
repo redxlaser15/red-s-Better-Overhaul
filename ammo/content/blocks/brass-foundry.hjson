@@ -16,7 +16,7 @@ consumes: {
   }
 }
 outputItem: brass/1
-craftTime: 1
+craftTime: 15
 alwaysUnlocked: true
 category: crafting
 research: tech-start

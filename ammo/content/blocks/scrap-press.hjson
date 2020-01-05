@@ -9,6 +9,7 @@ consumes: {
   items: {
   items: [
   scrap/2
+  bullet-casing/1
   ]
   }
 }

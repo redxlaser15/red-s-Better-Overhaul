@@ -6,12 +6,13 @@ size: 2
 requirements: [
   copper/50
   lead/35
+  graphite/5
 ]
 consumes: {
   items: {
   items: [
-  lead/2
-  coal/1
+  lead/4
+  coal/2
   ]
   }
   power: {
@@ -20,8 +21,6 @@ consumes: {
   }
 }
 outputItem: steel/1
-craftTime: 3
-capacity: 1
-usage: 0.5
+craftTime: 25
 category: crafting
 research: tech-f2

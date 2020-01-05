@@ -4,7 +4,7 @@ description: A very fast shooting turret. While each individual bullet may not d
 health: 500
 requirements: [
   copper/55
-  steel/15
+  steel/35
 ]
 size: 2
 reload: 20
@@ -65,11 +65,12 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 9
-    homingPower: 0.01
+    homingPower: 1
+    homingRange: 24
   }
   ap-bullet: {
     speed: 6
-    damage: 10
+    damage: 7
     bulletWidth: 3
     bulletHeight: 4
     shootEffect: shootSmall

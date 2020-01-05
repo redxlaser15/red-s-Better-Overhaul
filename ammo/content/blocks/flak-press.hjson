@@ -9,6 +9,7 @@ consumes: {
   items: {
   items: [
   lead/2
+  bullet-casing/1
   ]
   }
 }

@@ -62,7 +62,8 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 4
-    homingPower: 0.01
+    homingPower: 1
+    homingRange: 24
   }
 }
 category: turret

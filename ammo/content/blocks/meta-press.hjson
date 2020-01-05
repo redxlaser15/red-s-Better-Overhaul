@@ -10,6 +10,7 @@ consumes: {
   items: {
   items: [
   metaglass/2
+  bullet-casing/1
   ]
   }
   power: {
