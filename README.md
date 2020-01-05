@@ -15,7 +15,7 @@ Unfinished features:
 -Research tree rework
 -Turret ammo changes
 
-Features next main update:
+Features coming next:
 -Brass and Steel walls
 -Zinc producer (would allow playing on maps without natural zinc)
 -Work on Hail and Artillery Shell implementation
