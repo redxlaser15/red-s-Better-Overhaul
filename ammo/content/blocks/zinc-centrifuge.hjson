@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: GenericSmelter
 name: Zinc Centrifuge
 description: Extracts small amounts of Zinc from water, for cases where there is little to no available.
 health: 150
@@ -10,7 +10,7 @@ requirements: [
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.57142857142
+    amount: 0.55
   }
 }
 outputItem: zinc/1
